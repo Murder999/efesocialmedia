@@ -1,14 +1,17 @@
 {
-  "api_url": "https://smmkings.com/api/v2",
-  "web_site": "https://smmkings.com",
-  "services": {
+  "API_URL": "https://smmkings.com/api/v2",
+  "SERVISLER": {
     "Global": {
       "5793": "Instagram Like Gönder - Global",
-      "5981": "Instagram Yorum Kadın - Global"
+      "5981": "Instagram Yorum Kadın - Global",
+      "5980": "Instagram Yorum Erkek - Global",
+      "767": "Instagram Etkileşim - Gönderi - Reel Kaydetme - Global"
     },
     "Türk": {
       "1234": "Instagram Like Gönder - Türk",
-      "1235": "Instagram Yorum Gönder - Türk"
+      "1235": "Instagram Yorum Gönder - Türk",
+      "1236": "Instagram Etkileşim Gönder - Türk",
+      "1237": "Instagram Takipçi Gönder - Türk"
     }
   }
 }
